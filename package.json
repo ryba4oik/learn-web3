@@ -10,3 +10,4 @@
     "lint": "next lint",
     "solana:build:program": "cargo build-bpf --manifest-path=contracts/solana/program/Cargo.toml --bpf-out-dir=dist/solana/program",
     "near:build:contract": "node contracts/near/compile.js",
+    "near:build:contract:debug": "node contracts/near/compile.js --debug",
