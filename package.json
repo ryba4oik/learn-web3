@@ -18,3 +18,4 @@
     "test": "[ -f dist/solana/program/helloworld-keypair.json ] && jest || echo 'Run: yarn solana:build:program'"
   },
   "dependencies": {
+    "@3id/connect": "^0.2.5",
