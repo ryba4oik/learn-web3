@@ -17,3 +17,4 @@
   "prepare": "husky install",
     "test": "[ -f dist/solana/program/helloworld-keypair.json ] && jest || echo 'Run: yarn solana:build:program'"
   },
+  "dependencies": {
