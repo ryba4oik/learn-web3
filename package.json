@@ -21,3 +21,4 @@
     "@3id/connect": "^0.2.5",
     "@ant-design/icons": "^4.6.2",
     "@apollo/client": "^3.4.16",
+    "@celo/contractkit": "^1.2.4",
