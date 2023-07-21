@@ -20,3 +20,4 @@
   "dependencies": {
     "@3id/connect": "^0.2.5",
     "@ant-design/icons": "^4.6.2",
+    "@apollo/client": "^3.4.16",
