@@ -27,3 +27,4 @@
     "@ceramicstudio/idx": "^0.12.2",
     "@iov/crypto": "^2.5.0",
     "@jup-ag/core": "1.0.0-beta.4",
+    "@jup-ag/react-hook": "1.0.0-beta.4",
