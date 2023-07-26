@@ -30,3 +30,4 @@
     "@jup-ag/react-hook": "1.0.0-beta.4",
     "@maticnetwork/maticjs": "2.0.46",
     "@metamask/detect-provider": "^1.2.0",
+    "@orca-so/sdk": "^1.2.22",
