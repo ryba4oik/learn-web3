@@ -32,3 +32,4 @@
     "@metamask/detect-provider": "^1.2.0",
     "@orca-so/sdk": "^1.2.22",
     "@polkadot/api": "^9.11.1",
+    "@project-serum/sol-wallet-adapter": "^0.2.6",
