@@ -33,3 +33,5 @@
     "@orca-so/sdk": "^1.2.22",
     "@polkadot/api": "^9.11.1",
     "@project-serum/sol-wallet-adapter": "^0.2.6",
+    "@pythnetwork/client": "^2.5.1",
+    "@raydium-io/raydium-sdk": "^1.0.1-beta.14",
