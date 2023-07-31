@@ -37,3 +37,5 @@
     "@raydium-io/raydium-sdk": "^1.0.1-beta.14",
     "@segment/snippet": "^4.14.2",
     "@solana/buffer-layout": "4.0.0",
+    "@solana/wallet-adapter-react": "^0.15.1",
+    "@solana/wallet-adapter-react-ui": "^0.9.2",
