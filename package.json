@@ -43,3 +43,5 @@
     "@solana/web3.js": "^1.31.0",
     "@taquito/signer": "^10.0.0",
     "@taquito/taquito": "^10.0.0",
+    "@types/js-yaml": "^4.0.3",
+    "@types/node": "^15.12.4",
