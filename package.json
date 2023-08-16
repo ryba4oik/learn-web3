@@ -63,3 +63,5 @@
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
     "lodash.unescape": "^4.0.1",
+    "mz": "^2.7.0",
+    "near-api-js": "^0.41.0",
