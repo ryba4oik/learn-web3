@@ -89,3 +89,4 @@
     "minimist": "^1.2.6"
   },
   "devDependencies": {
+    "@babel/core": "^7.15.5",
