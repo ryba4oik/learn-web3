@@ -130,3 +130,4 @@
     "react-is": ">= 16.8.0",
     "react-json-view": "^1.21.3",
     "react-markdown": "^7.0.1",
+    "react-no-ssr": "^1.1.0",
