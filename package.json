@@ -134,3 +134,4 @@
     "react-player": "^2.9.0",
     "react-syntax-highlighter": "^15.4.4",
     "recharts": "^2.1.8",
+    "remark-gfm": "^2.0.0",
