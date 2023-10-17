@@ -135,3 +135,4 @@
     "react-syntax-highlighter": "^15.4.4",
     "recharts": "^2.1.8",
     "remark-gfm": "^2.0.0",
+    "rxjs": "^7.5.2",
