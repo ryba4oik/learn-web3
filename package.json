@@ -155,3 +155,5 @@
     "@types/lodash.unescape": "^4.0.6",
     "@types/mz": "^2.7.4",
     "@types/node": "^15.12.4",
+    "@types/react": "^17.0.11",
+    "@types/react-dom": "^17.0.8",
