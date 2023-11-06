@@ -160,3 +160,4 @@
     "@types/react-router-dom": "^5.1.7",
     "@types/react-syntax-highlighter": "^13.5.2",
     "@types/styled-components": "^5.1.10",
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
