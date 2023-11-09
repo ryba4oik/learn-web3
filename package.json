@@ -165,3 +165,5 @@
     "babel-jest": "^27.2.0",
     "babel-plugin-styled-components": "^1.13.1",
     "dotenv": "^10.0.0",
+    "eslint": "7.29.0",
+    "eslint-config-next": "11.0.1",
