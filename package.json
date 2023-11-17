@@ -178,3 +178,4 @@
     "prettier": "2.3.2",
     "pretty-quick": "^3.1.1",
     "react-test-renderer": "^17.0.2",
+    "shelljs": "^0.8.4",
