@@ -185,3 +185,5 @@
     "@solana/buffer-layout": "4.0.0"
   }
 }
+{
+  "name": "app",
