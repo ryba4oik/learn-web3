@@ -12,3 +12,5 @@ dependencies = [
 
 [[package]]
 name = "addr2line"
+version = "0.14.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
