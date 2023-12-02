@@ -18,3 +18,6 @@ checksum = "a55f82cfe485775d02112886f4169bde0c5894d75e79ead7eafe7e40a25e45f7"
 dependencies = [
  "gimli",
 ]
+
+[[package]]
+name = "adler"
